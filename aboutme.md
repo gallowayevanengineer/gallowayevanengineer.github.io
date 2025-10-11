@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Who am I?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Evan Galloway, and I am a current Junior Mechanical Engineer at Rose-Hulman Institute of Technology.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+The website itself and other projects found, are passion projects of mine and I do them for fun. However, I do realize that they can represent a great portfolio as well. By showcasing my portfolio on here, I hope to show my curiosity, self-learning, and passion for engineering.  
 
-What else do you need?
+If you would like to contact me please go back to the website home page and scroll to the bottom to find my contact info.
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
