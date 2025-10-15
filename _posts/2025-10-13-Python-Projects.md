@@ -2,6 +2,7 @@
 layout: post
 title: Python Projects
 subtitle: Latest Project- Guessing Game
+last-updated: 10/14/2025
 ---
 
 
@@ -10,4 +11,4 @@ This project involved getting the basic of Python like commenting, printing, and
 
 [Link to my code](/assets/data/Python_Fun.py)
 
-last-updated: 11/11/11
+
