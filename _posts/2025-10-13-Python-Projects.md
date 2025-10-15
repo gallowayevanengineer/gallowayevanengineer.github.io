@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Python Projects
-subtitle: Latest Project: Guessing Game 10-14-2025
+subtitle: Latest Project: Guessing Game
 ---
 
 
