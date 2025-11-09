@@ -19,4 +19,4 @@ Started: 10/21/2025
 Through this free Python class I am teaching myself Python in my free time. The class consists of 14 parts and I shall upload each part I finish.
 
 Parts Finished:
-[Part 1]
+[Part 1](/assets/data/Python_Part_1.py)
