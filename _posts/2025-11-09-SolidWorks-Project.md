@@ -11,4 +11,4 @@ guitar. I had a lot of fun doing small details on the guitar like the wood linin
 with this project as well.
 
 ### Link to Project:
-[Guitar]
+[Guitar](/assets/data/CoolThingProject_Galloway.SLDPRT)
