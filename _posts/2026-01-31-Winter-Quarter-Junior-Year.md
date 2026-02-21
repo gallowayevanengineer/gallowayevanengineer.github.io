@@ -15,12 +15,12 @@ Design for Manufacturing or (DFM) exposed me to a ton of different manufacturing
 experience with all kinds of processes from sandcasting to thermoforming.
 
 #### Sandcasting Project
-For the first group project in this class we created a CAD model of a trophy before printing it out and then sandcasting it.
+For the first group project in this class we created a CAD model of a trophy before printing it out and then sandcasting it.  
 [Sandcasting Project Overview](/assets/data/Projec2.pdf)
 
 
 #### Stamping Project
-Everyone in class was assigned to create a design that could meet the specifications our professor asked of us. Here is our design
+Everyone in class was assigned to create a design that could meet the specifications our professor asked of us. Here is our design  
 [Stamping Project Overview](/assets/data/Project3FinalPresentation.pptx)
 
 Here are some CAD iterations we went through
@@ -30,10 +30,10 @@ Here are some CAD iterations we went through
 
 #### Thermoforming Project
 My class made thermoforming designs in CAD and then a handful were selected to thermoform for real and make chocolates!
-The group I was in chose to design a Batman logo and it sadly did not win.
+The group I was in chose to design a Batman logo and it sadly did not win.  
 [Thermoforming Project Overview](/assets/data/Project5Memo.docx)
 
-Here is our CAD model as well.
+Here is our CAD model as well.  
 [BATMAN CAD Design](/assets/data/Batman_Thermoform.SLDDRW)
 
 ## Measurement Systems Projects
@@ -41,11 +41,11 @@ Here is our CAD model as well.
 Measurement Systems exposed me to a variety of different tools and sensors used in engineering practice and taught me about their uncertainties.
 
 #### Finding a Shear Modulus
-My group was tasked with finding the Shear Modulus of an Apparatus. Attached is our project results.
+My group was tasked with finding the Shear Modulus of an Apparatus. Attached is our project results.  
 [Presentation](/assets/data/Team03_project1_Shear_Modulus.pptx)
 
 #### Designing an Appartus
-For my groups second project we were assigned to theoretically design and create an apparatus with the uncertainties accounted for.
+For my groups second project we were assigned to theoretically design and create an apparatus with the uncertainties accounted for.  
 [Report](assets/data/ME321_Project_2_Tech_Report.pdf)
 
 ## Digital Systems Projects
