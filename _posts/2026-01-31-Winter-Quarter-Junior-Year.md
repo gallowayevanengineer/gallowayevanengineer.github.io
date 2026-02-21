@@ -19,9 +19,10 @@ Measurement Systems exposed me to a variety of different tools and sensors used 
 
 #### Finding a Shear Modulus
 My group was tasked with finding the Shear Modulus of an Apparatus. Attached is our project results.
-
+[Presentation](/assets/data/Team03_project1_Shear_Modulus.pptx)
 
 #### Designing an Appartus
+For my groups second project we were assigned to theoretically design and create an apparatus with the uncertainties accounted for.
 
 
 ## Digital Systems Projects
